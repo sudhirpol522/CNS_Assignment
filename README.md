@@ -1,5 +1,4 @@
-# Project Title
-A brief description of what your project does.
+# CNS Assignment
 
 # Overview
 In this assignment, a key focus was to ensure that the functions were correctly referenced by their absolute paths and that any errors encountered were thoroughly investigated. The debugging process included:
